@@ -1,0 +1,22 @@
+{
+	"Host": "api.tsum.ru",
+	"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+	"Accept": "application/json",
+	"Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+	"Accept-Encoding": "gzip, deflate, br",
+	"Content-Type": "application/json",
+	"X-XID": "e72423cf-f556-4b83-82b0-4cd754318ebd",
+	"X-Uid": "8490f3d7-b9f3-4d36-a18a-ea533b7d0d6e",
+	"X-Site-Region": "RU",
+	"X-ABTests": "default_payment=VariationB",
+	"Content-Length": "28",
+	"Origin": "https://www.tsum.ru",
+	"Connection": "keep-alive",
+	"Referer": "https://www.tsum.ru/",
+	"Cookie": "catalogGender=kids; xid=e72423cf-f556-4b83-82b0-4cd754318ebd; tt_deduplication_cookie=yandex; uuid=8490f3d7-b9f3-4d36-a18a-ea533b7d0d6e; wishlist_sid=wioJ52hmTsdoRgrH-2Znm1oCqcuz09WP; _calltracking=+7 800 500 73 45,+7 495 933 73 45; utmcsr=yandex; utmcmd=cpc; utmccn=cid:55846004; utmctr=ph:22839412880; utmcct=dev:desktop; __utmzz=utmcsr=yandex|utmccn=cid:55846004|utmcmd=cpc|utmctr=ph:22839412880|utmcct=dev:desktop; __utmzzses=1; _utm_source=yandex; _utm_medium=cpc; _utm_campaign=cid:55846004; _utm_term=ph:22839412880; _utm_content=dev:desktop; _channelGrouping=Paid Search; gtmc_yclid=931743068830302207; digsearch=1; _ym_uid=166889319142286996; _ym_d=1690802272; __utma=75424919.308109361.1690802272.1690802272.1690806896.2; __utmc=75424919; __utmz=75424919.1690802272.1.1.utmcsr=yandex|utmccn=cid:55846004|cn:search_hand_tsumbrand_main_ydir_e_msk|utmcmd=cpc|utmctr=ph:22839412880|kw:ÑÑÐ¼|utmcct=dev:desktop|rid:10758|gid:4335396525|aid:11688589105|re:22839412880|drf:no|pos:1|postype:premium; tmr_lvid=a80a883212722cebc85765be666e1af7; tmr_lvidTS=1668893190431; _ga=GA1.2.308109361.1690802272; _gid=GA1.2.1630455350.1690802272; _ym_isad=1; _ga_GRGD1C90XP=GS1.1.1690806786.2.1.1690812234.0.0.0; mindboxDeviceUUID=10f8482a-6284-473c-91cc-0736b6df8522; directCrm-session=%7B%22deviceGuid%22%3A%2210f8482a-6284-473c-91cc-0736b6df8522%22%7D; _slid=637949fb15e69fc4360891a6; react-version-local=2953bd22696b15de57bd17aced3dc3816232d3c9; x-wishlist-sid-local=wioJ52hmTsdoRgrH-2Znm1oCqcuz09WP; _slid_server=637949fb15e69fc4360891a6; _ym_hostIndex=0-2%2C1-0; p_count=59; digi_uc=W1sidiIsIjQ3MzY1NDkiLDE2OTA4MDI3ODc3MjhdXQ==; gtmc_ppview30day=1; siteVer=1.0.0; hits_count=269; gtmc_userAuth=0; __utmb=75424919.33.10.1690806896; _slsession=26F85DD6-2C54-45F4-8239-A471AD081C53; __utmt_UA-24116832-12=1",
+	"Sec-Fetch-Dest": "empty",
+	"Sec-Fetch-Mode": "cors",
+	"Sec-Fetch-Site": "same-site",
+	"Pragma": "no-cache",
+	"Cache-Control": "no-cache"
+}
